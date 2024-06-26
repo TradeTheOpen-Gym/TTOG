@@ -16,7 +16,7 @@ you acknowledge and agree that:
 3) This software is provided 'as is,' without any warranty of any kind, express or implied.
 4) You understand the limitations of simulated trading and the differences from real trading.
 ## How to?
-Download the 'Trade the Open - Gym' files archive from the Releases section on the right and extract it to your preferred location. Then, follow the instructions below to set up 'Trade the Open - Gym' (TTOG).
+Download the most recent 'Trade the Open - Gym' files archive (TTOG_vX.X.X.X_XXXXXXXX.zip where the X denote version numbers and date) from the Releases section on the right and extract it to your preferred location. Then, follow the instructions below to set up 'Trade the Open - Gym' (TTOG).
 <details>
   <summary>
     Click to expand - <b>Installing Python and Visual Studio Code</b>
@@ -182,7 +182,7 @@ Download the 'Trade the Open - Gym' files archive from the Releases section on t
      Every candle on this chart represents one completed trade. The Open of each candle corresponds to the Profit-and-Loss (PnL) value before the trade, the High represents the highest open PnL during the trade, the Low represents the lowest open PnL during the trade, and the Close represents the final PnL value at which the trade was completed. Each lot transacted during the trade is independently accounted for.
 </details>
 
-## Showing Support:
+## Showing Support
 Do you like this project and want to support its creator? <br>
 You can 'buy me a coffee': https://buymeacoffee.com/tradetheopen.gym
 
