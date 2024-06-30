@@ -91,10 +91,10 @@ Download the most recent 'Trade the Open - Gym' files archive (TTOG_vX.X.X.X_XXX
 
 <details>
   <summary>
-    Click to expand - <b>Checking that data for all symbols is matching</b>
+    Click to expand - <b>Checking consistency of data</b>
   </summary>
 
-  `If you have downloaded tick historical market data for more than one symbol and intend to use all of them during the same 'Trade the Open - Gym' run, you have to make sure that the data for all symbols contains exactly the same dates. See how to do that below.`
+  `Do not skip this step even if you have data for only one symbol - this will automatically remove unwanted duplicate files. If you have downloaded tick historical market data for more than one symbol and intend to use all of them during the same 'Trade the Open - Gym' run, you have to make sure that the data for all symbols contains exactly the same dates. See how to do that below.`
 
   ### Steps to follow:
   
